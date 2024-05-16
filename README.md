@@ -1,6 +1,6 @@
 # Mini Pupper
 
-## Overview
+## Overview of the content
 
 ![MP and MP2](imgs/MP.MP2.smallsize.jpg)
 
